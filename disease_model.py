@@ -5,6 +5,7 @@ from sklearn.metrics import accuracy_score
 
 # Load dataset
 data = pd.read_csv("dataset.csv")
+print(data.head())
 
 # Features and target
 X = data.drop("prognosis", axis=1)
