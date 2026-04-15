@@ -1,2 +1,18 @@
-# CodeAlpha_DiseasePrediction
-Machine learning-based disease prediction system using Random Forest to identify potential diseases from patient symptoms.
+# Disease Prediction using Machine Learning
+
+## Objective
+To predict diseases based on patient symptoms using machine learning.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+
+## Algorithm
+- Random Forest Classifier
+
+## Result
+The model predicts diseases based on symptoms.
+
+## Conclusion
+Machine learning can help in early detection of diseases.
